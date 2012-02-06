@@ -1,0 +1,49 @@
+* Why it's hard
+  * short attention span
+  * competing with the freaking INTERNET
+    * best compliment: "I didn't look at my iphone the whole time"
+* Don't be boring
+  * Do something crazy in your intro to wake people up. I like to make them stand and stretch.
+  * Your job is not to convey information, it is to convince people to learn. Make it seem exciting.
+  * Whatever you do don't make it feel like a meeting.
+  * Do stuff live
+    * Show, don't tell
+    * Write code live
+    * Show code in an editor
+      * Slides are finished-product still-lifes. An artist can learn a little from the end result, but more from the process.
+        * After my talks, people always tell me they learned something about vim
+        * I make a point of mentioning how I do cool stuff
+      * Code in an editor feels alive
+    * Improvise the details
+      * Outlines are great, quotes are terrible
+  * No one tuns out faster than a bored person
+  * Be funny
+    * Don't use the same tricks everyone else does: lolspeak, funny pictures
+  * Don't use slides
+  * Encourage questions
+    * Confused people tune out too
+  * Care about your topic
+* Make damn sure your code is readable
+  * if you ask "can you guys see this in the back?", you've failed
+  * high-contrast shortcut
+  * big font
+  * check yourself, or ask people in the back row
+  * nearly all projectors have horrible contrast. Grey WILL look like white.
+* Spend one sentence on your introduction
+  * An impressive bio does not make your talk any better
+  * You don't need to establish you know what you're talking about. People have great bullshit sensors -- they'll know in no time.
+* Front-load your content
+  * People tune-out over time, so put the most important stuff first
+* Give people an idea of where they are in your talk
+* Make eye contact around the room
+  * Most audiences have a 'nodder', focusing on this guy will boost your confidence
+* Wait longer than you think you need to for questions
+  * "Let's have a couple questions", not "any questions?"
+* Be open
+  * Talk about your doubts and fears (exception: DON'T say you're nervous to be speaking)
+* Don't pre-apologize
+* Repeat the question
+* Close distracting stuff.
+* How to handle a large group approaching your after the talk
+  * acknowledge everyone early, shake hands, welcome them into the group
+  * continue current thread
