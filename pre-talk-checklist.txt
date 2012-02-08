@@ -1,0 +1,14 @@
+Whenever I'm creating and practicing a talk, I start a section at the top of my notes file containing the steps needed to prepare my machine to give the talk. It's very easy to forget something small that will cause your demo to blow up, so don't leave this to chance. You DON'T want to try to remember these things when you're five minutes from taking the stage. 
+
+Right before my talks I'm always a bit nervous, but running through my preparation checklist a few times gives me confidence that nothing will surprise me later.
+
+Here are a few things that are in almost all my checklists:
+  * clear browser history
+  * clear browser autofill
+  * hide browser bookmarks bar
+  * bump up text size in browser
+  * clean up desktop
+  * invert colors for readability (Ctrl+Alt+Command+8 on OS X)
+  * bump up text size in editor
+  * print out notes
+  * get excited!
