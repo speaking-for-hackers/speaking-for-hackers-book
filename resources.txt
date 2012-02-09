@@ -1,0 +1,9 @@
+This here be a link dump of other good reading/watching for giving great talks:
+
+TODO: add summaries of each.
+
+Reading:
+"Presentation Smells" by Martin Fowler - http://martinfowler.com/bliki/PresentationSmells.html
+
+Watching:
+"The Secret Structure of Great Talks" by Nancy Duarte (18 minutes) - http://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks.html
