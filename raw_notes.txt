@@ -47,3 +47,6 @@
 * How to handle a large group approaching your after the talk
   * acknowledge everyone early, shake hands, welcome them into the group
   * continue current thread
+* How to write a good proposal
+  * leveraging social proof
+  * going beyond the norm - my RailsConf and Railsberry stories
