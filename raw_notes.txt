@@ -51,3 +51,5 @@
   * leveraging social proof
   * going beyond the norm - my RailsConf and Railsberry stories
 * Speaking in your non-native language
+* Choosing good time slots
+* Negotiating talk lengths
