@@ -65,6 +65,7 @@ Here are a few things that are in almost all my checklists:
   * invert colors for readability (Ctrl+Alt+Command+8 on OS X)
   * bump up text size in editor
   * print out notes
+  * remember to bring DVI/VGA-to-DisplayPort adapter if you own a Mac
   * get excited!
 
 =========================================================================================
