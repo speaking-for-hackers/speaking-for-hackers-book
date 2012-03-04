@@ -18,13 +18,35 @@ What you talk about is a trillion times less important than the way you present 
 
 =========================================================================================
 
-*How to lay out your talk*
+*Kill Your Introduction*
 
-1. Introduction. Spend ONE sentence on this. People are very good at detecting if you know what you're talking about. If you do, your credentials don't matter. And if you don't...well, they don't matter then either.
+After attending many conferences and dozens of talks, I've noticed a disturbing trend among speakers: most of them start with an introduction.
 
-2. Your main thesis. After you introduce yourself with one sentence, you should immediately hit the audience with your most important point. Always strive to front-load your talks with the most important stuff up front. Realize that 5% of your audience will tune out every minute you speak so make sure you start with the good stuff.
+Their first slide has the title of the talk.
 
-3. A quick mention of the structure of your talk. People like knowing where they are in your presentation, so give them a set of landmarks that they can recognize later: "I'm going to show you a few simple examples in the browser, and then we'll dig into the code behind it, and I'll end with some recommendations for further reading."
+Their second slide states their name and employer.
+
+Their third slide covers what the talk is about. This is usually the same abstract that's been published for months on the conference site.
+
+Their fourth slide is usually some sort of back-story like who invented the concept they'll be talking about, or a survey of the landscape around their topic.
+
+Finally, around slide number five and minute six, they begin to teach the audience something of value. If you forced them to stop after five minutes and ask the audience what useful things they've learned so far, they would have virtually no answer.
+
+My advice to conference speakers is this: kill your introduction.
+
+I start nearly all my talks like this: "My name is Ben Orenstein and I work for thoughtbot. This talk is about why vim is the greatest text editor ever written. The most important thing for you to take away from this talk is X."
+
+One sentence intro. One sentence summary. Third sentence is the most important idea of the talk.
+
+If you stopped one of my talks after five minutes, my audience would have learned four minutes and fifty-five seconds of useful information. And they certainly would have already heard the main thesis of my talk.
+
+There are two reasons I structure my talks this way:
+
+1. There is no need to establish yourself as an authority. People tend to be very good at detecting competence. If you have impressive credentials but don't seem to know what you're talking about, you'll lose credibility rapidly. Likewise, if you are clearly an expert on your topic your credentials are irrelevant. Make sure you know your subject matter cold, and trust people to spot your expertise.
+
+2. The number of people listening to you over time steadily declines with time. However, for the first minute or so you'll have nearly everyones' attention. Don't waste this opportunity! Hit them with your most important ideas immediately so that when they do tune out they're missing less and less important information. As a bonus, by being immediately useful and interesting, the slope of your tune-out graph will be shallower.
+
+Journalists are trained to front-load their articles so that an editor can chop any amount off the end and still have a usable piece. Think of your talks this way and your audiences will thank you.
 
 =========================================================================================
 
