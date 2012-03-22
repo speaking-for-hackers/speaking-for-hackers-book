@@ -146,6 +146,24 @@ lower than usual when plugged into a projector. It's an extremely good idea to
 drop your resolution to around 800x600 and run your entire talk. You'll be
 surprised at how many things you'll have to tweak. 
 
+Additionally, virtually all talks are subject to a time constraint. DO NOT go
+over your time allotment! It is immensely disrespectful to your audience in two
+ways. First, it says that you didn't care enough to practice to make sure you
+came in under time. Second, it shows a lack of concern for the rest of your
+audience's day. So don't just estimate and hope. Practice with a timer and make
+sure you're in good shape. 
+
+By the way, if you find yourself rushing skipping slides and saying "I'm just
+gonna skip over this because we're short on time" you've blown it. If that
+material wasn't important, why was it in your talk? And if it is important,
+your lack of practice just made you dump something that you should have
+covered.
+
+Note: most talks run long. It's rare for speakers to finish early. Recognize
+this and err on finishing early. This will just mean an extended Q&A and/or an
+early finish for your audience, which usually feels like getting out of class a
+bit ahead-of-schedule.
+
 ===============================================================================
 
 *Pre-talk checklist*
@@ -161,8 +179,13 @@ preparation checklist a few times gives me confidence that nothing will
 surprise me later.
 
 Here are a few things that are in almost all my checklists:
-  * clear browser history clear browser autofill hide browser bookmarks bar
-  * bump up text size in browser clean up desktop invert colors for readability
-  * (Ctrl+Alt+Command+8 on OS X) bump up text size in editor print out notes
-  * remember to bring DVI/VGA-to-DisplayPort adapter if you own a Mac get
+  * clear browser history 
+  * clear browser autofill 
+  * hide browser bookmarks bar
+  * bump up text size in browser 
+  * clean stray icons off your desktop 
+  * invert colors for readability (Ctrl+Alt+Command+8 on OS X) 
+  * bump up text size in editor 
+  * print out notes
+  * remember to bring DVI/VGA-to-DisplayPort adapter if you own a Mac
   * get excited!

@@ -53,3 +53,4 @@
 * Speaking in your non-native language
 * Choosing good time slots
 * Negotiating talk lengths
+* How to tell your talk will suck
