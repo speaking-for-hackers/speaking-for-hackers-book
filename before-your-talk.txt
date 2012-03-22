@@ -1,32 +1,83 @@
-*Your prime directive*
+*Proposing Successfully*
 
-If you learn just one thing about public speaking, let it be this: your prime
-directive as a presenter is Don't Be Boring.
+1. Keep it short and punchy.
 
-Most speakers think that their topic is the most important part of their talk,
-but they're wrong. And I'll prove it with a story.
+Most conferences get over a hundred proposals. Put yourself in the shoes of an
+organizer who has read 30 abstracts before yours, and wants to do 10 more
+before he stops for the day. Think of it as speed dating: you've got 5 minutes
+to pique his interest and get him wanting to hear more. Remember that your
+proposal should make the reader want to see your talk.
 
-A few days ago I was at a conference for students featuring introductory talks
-on a number of topics. Nick Quaranto gave a talk on TDD. I've been doing TDD
-for years now, have read about it in depth, and have discussed the practice to
-death with lots of smart folks. I'm am extremely familiar with the topic.
 
-Nick's talk was intended for folks that had never heard of TDD before, and was
-completely basic. I learned literally (literally!) nothing from it.
+2. Include social proof.
 
-And you know what? I was completely entertained for the whole damn thing.
+When you give your talks, look for feedback on Twitter (and solicit some if
+there isn't any). Save links to the good stuff and include them in your
+proposal (quote, plus a link to the original; the link is important). This
+technique has two substantial benefits. First, it assuages an organizer's
+concern that he's going to pick a bad speaker. It makes his life easier, which
+is extremely good for you. Second, since not a lot of speakers will do this, it
+will make you stand out from the crowd.
 
-Nick had well-designed slides, hilarious gifs, and excellent pacing and energy.
-I laughed my way through his talk and gave him the hearty applause he deserved.
-I didn't learn a thing from him, but he *made the concept interesting through
-his delivery*.
 
-THAT is what you should be shooting for when you stand up in front of a group
-of people. 
+3. Titles matter.
 
-What you talk about is a trillion times less important than the way you present
-it. Never forget that.
+Shoot for intriguing and memorable, in that order. Come up with a couple
+candidates for your title and get input from friends. Which talk would YOU
+rather hear?
 
+
+4. Have a good bio.
+
+Do cool stuff and talk about it.
+
+
+4. Send a follow-up email.
+
+Reach out to the organizers with a friendly email. Tell them you're excited
+about your conference and that you'd love to speak. Again, you're trying to
+stand out from the masses of eager speakers, so be personable.
+
+
+Here's a proposal I submitted recently. It was accepted at NordicRuby, which
+took only 12 talks from a pool of 113.
+
+Title: What Rubyists should Steal from Haskell and Clojure
+
+Abstract: Ruby is a great little language, but that doesn't mean it got
+everything right.  This talk will be a tour of the best features from Clojure
+and Haskell that you can't find in Ruby. The goal isn't to try to convert you
+to these languages, but to expand your knowledge of the best ideas in
+programming language design.  We'll also see how understanding the rationale
+behind these features can help you write better Ruby.
+
+If concepts like anaphora, destructuring binds, and monads aren't familiar to
+you, prepare to learn some powerful concepts. And don't worry: this won't be
+some voice-from-the-clouds, ivory tower tutorial. Just a pragmatic guy teaching
+cool ideas with simple examples. No neckbeard required.
+
+Notes to organizers: (Here's where I gush about their conference a litle.)
+
+Then, I include the following quotes, gathered after my most-recent talk:
+
+"@r00k you're one of the best presentors I've ever seen in tech."
+https://twitter.com/#!/sayhar/status/165851089860702208
+
+"@r00k and what a presentation it was. i wish you were my public speaking
+professor." https://twitter.com/#!/tony_ciampa/status/165954726695944193
+
+"@r00k is killing - calisthenics, comedy, hecklers, and great super-fast coding
+w/ vim" https://twitter.com/#!/pattytoland/status/165849474747469824
+
+
+Bio: Ben has spoken in several countries and in multiple languages, in venues
+varying from tiny conference rooms to giant lecture halls.
+
+He is the co-founder of the Boston Vim Meetup, creator of vimuniversity.com,
+and author of Speaking for Hackers.
+
+When not demanding that everyone remap caps lock to escape, Ben writes code at
+thoughtbot, occasionally correctly.
 ===============================================================================
 
 *Kill Your Introduction*
@@ -97,21 +148,6 @@ surprised at how many things you'll have to tweak.
 
 ===============================================================================
 
-*Keeping your audience's attention*
-
-Don't be boring!
-
-They'll be excited if you seem excited.
-
-Ask for a show of hands or for people to call out the answer to something.
-
-Realize that you'll lose them about 8 minutes in and plan something surprising.
-
-An audience's attention must constantly maintained with energy and interesting
-content.
-
-===============================================================================
-
 *Pre-talk checklist*
 
 Whenever I'm creating and practicing a talk, I start a section at the top of my
@@ -129,16 +165,4 @@ Here are a few things that are in almost all my checklists:
   * bump up text size in browser clean up desktop invert colors for readability
   * (Ctrl+Alt+Command+8 on OS X) bump up text size in editor print out notes
   * remember to bring DVI/VGA-to-DisplayPort adapter if you own a Mac get
-  * excited!
-
-===============================================================================
-
-*Additional resources*
-
-TODO: add summaries of each.
-
-Reading: "Presentation Smells" by Martin Fowler -
-http://martinfowler.com/bliki/PresentationSmells.html
-
-Watching: "The Secret Structure of Great Talks" by Nancy Duarte (18 minutes) -
-http://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks.html
+  * get excited!
