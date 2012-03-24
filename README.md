@@ -6,5 +6,7 @@ As a paid customer, you should feel free to open up an issue describing the cont
 
 Contents: 
 * If you'd like to see what's been added recently, check out the CHANGELOG.
+
 * The book is split into before-your-talk.txt, during-your-talk.txt, and after-your-talk.txt.
+
 * raw_notes.txt has the rough notes for things I'll cover in the future.
