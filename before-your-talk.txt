@@ -188,4 +188,5 @@ Here are a few things that are in almost all my checklists:
   * bump up text size in editor 
   * print out notes
   * remember to bring DVI/VGA-to-DisplayPort adapter if you own a Mac
+  * change energy settings so your laptop won't sleep
   * get excited!
