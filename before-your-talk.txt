@@ -236,4 +236,5 @@ Here are a few things that are in almost all my checklists:
   * print out notes
   * remember to bring DVI/VGA-to-DisplayPort adapter if you own a Mac
   * change energy settings so your laptop won't sleep
+  * remove the clock and battery meter from your status bar
   * get excited!
