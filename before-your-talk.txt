@@ -238,3 +238,35 @@ Here are a few things that are in almost all my checklists:
   * change energy settings so your laptop won't sleep
   * remove the clock and battery meter from your status bar
   * get excited!
+
+===============================================================================
+
+* You don't (really) have to cover what you promised *
+
+Imagine you propose an awesome talk idea and it gets accepted.
+
+Later, when actually trying to create it, you realize your idea doesn't work so
+well in the harsh light of the projector. Perhaps you don't have nearly enough
+material to cover. More likely, your proposal has bitten off far more than you
+can chew in forty minutes. What can you do?
+
+Fortunately, you're not really in a tough spot.
+
+First of all, no one expects you to deliver exactly the talk you promise in
+your proposal. You've got some wiggle room if you want to cover (or cut) things
+in a way that doesn't match your original description.
+
+This works fine if you need to make minor changes to your talk, but what if
+you've got deeper issues? What can you do if there's just no way this talk is
+going to work?
+
+Even here, you still have an out. I've contacted organizers on three different
+occasions asking for if I can change my topic, and all have granted it without
+complaint. Even when the new talk was wildly different (from a soft-skills talk
+to full-on live-coding, for example). My theory is that once you're through the
+selection process, the organizers are confident you will deliver *something* of
+quality, and are willing to trust you.
+
+Even so, if you do ask to change topics, don't forget a little salesmanship for
+the new talk you're swapping in. Set them at ease by conveying that this
+substitute talk will be as good or better as the one they originally accepted.
