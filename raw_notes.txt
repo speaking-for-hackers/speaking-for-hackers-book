@@ -57,6 +57,6 @@
   * Good default hand position (by the sides, or elbows slightly bent for gesturing)
   * Hands behind back when taking questions
 * Don't say: "who here doesn't know what X is?"
-* How does one choose what to talk about?
-  * what do you rant about?
-  * ask your colleagues or people you program with what they've learned from you
+* Going the extra mile
+  * getting accepted at railsconf
+  * letter to RailsBerry
