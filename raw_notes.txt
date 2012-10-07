@@ -57,6 +57,4 @@
   * Good default hand position (by the sides, or elbows slightly bent for gesturing)
   * Hands behind back when taking questions
 * Don't say: "who here doesn't know what X is?"
-* Going the extra mile
-  * getting accepted at railsconf
-  * letter to RailsBerry
+* Different preparation and practice styles (see issue #7 on repo)
