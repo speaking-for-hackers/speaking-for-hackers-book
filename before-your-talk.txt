@@ -405,3 +405,23 @@ now I'm mentally prepared and shrug it off.
 
 When I talk to other speakers, they often admit to having the same thoughts.
 Don't freak out if you do too.
+
+===============================================================================
+
+* Organize Up *
+
+There's a saying in the business world that great employees think about
+"managing up", which means helping your manager be good at his or her job. What
+better way to seem indispensable?
+
+Turns out this is a great idea with conference organizers too: make it easy for
+them to set up your talk perfectly.
+
+My live-coding talks require both hands, so I really need a lav mike. A mike
+mounted on the podium doesn't let me bound to the edge of the stage for
+important points. Most conferences will have lav mikes, but I've started mentioning
+it in my proposals to be sure.
+
+It's also a great idea to ask what resolution the projector will be running. Most organizers won't email this out unless asked. Asking makes it likely that they'll just email all the speakers abou it. Maybe other people will discover avoidable issues.
+
+
