@@ -1,6 +1,6 @@
-This is where the source for Speaking for Hackers will live.
+This the source for Speaking for Hackers. 
 
-The book was begun on 2/6/2012 and is but an infant.
+Right now it's just plain text, wrapped to 80 characters. The eventual plan is for all the usual formats, including a nice-looking PDF.
 
 As a paid customer, you should feel free to open up an issue describing the contet that you would like to see covered.
 
