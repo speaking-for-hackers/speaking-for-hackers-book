@@ -1,7 +1,0 @@
-*3 Thoughts on Slide Design* 
-
-1. Use HUGE fonts. (With good contrast!)
-
-2. Don't use the bottom third of the screen. Many venues put their screens too low and people won't be able to see it.
-
-3. Don't use slides. Do live coding/demos instead.
