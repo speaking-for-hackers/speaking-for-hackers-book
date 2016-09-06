@@ -1,8 +1,6 @@
 This the source for Speaking for Hackers. 
 
-Right now it's just plain text, wrapped to 80 characters. The eventual plan is for all the usual formats, including a nice-looking PDF.
-
-As a paid customer, you should feel free to open up an issue describing the contet that you would like to see covered.
+Right now it's just plain text, wrapped to 80 characters.
 
 Contents: 
 
