@@ -33,7 +33,7 @@ with almost no delay.
 
 2. Repeat the question.
 
-Unless your venue is set up with mikes for the audience, you'll likely have
+Unless your venue is set up with mics for the audience, you'll likely have
 people yelling questions across a crowded room. In this scenario, always
 summarize the person's question before you start answering it. This is mostly
 to make sure that everyone heard the question, but has the side benefit giving
