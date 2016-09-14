@@ -1,11 +1,13 @@
-This the source for Speaking for Hackers. 
+Years ago, I started to write a book about giving good conference talks. The
+title was Speaking for Hackers. 
 
-Right now it's just plain text, wrapped to 80 characters.
+Turns out, I ran out of steam almost immediately, but I think what's here is
+worth reading. You can probably get through all of it in far less time than it
+takes to give a bad talk. 
 
-Contents: 
+The book is split into three sections: before, during, and after your talk.
+There's also `raw_notes.txt` with rough ideas that never made it into a more
+polished form.
 
-* If you'd like to see what's been added recently, check out the CHANGELOG.
-
-* The book is split into before-your-talk.txt, during-your-talk.txt, and after-your-talk.txt.
-
-* raw_notes.txt has the rough notes for things I'll cover in the future.
+Feel free to copy and share this, but please don't use it for anything
+commercial without my permission.
