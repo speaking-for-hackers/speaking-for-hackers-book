@@ -1,4 +1,4 @@
-* Choosing a talk topic *
+# Choosing a talk topic
 
 Some potential speakers get blocked at the earliest stage: deciding what they
 should talk about.
@@ -6,7 +6,7 @@ should talk about.
 Here are a few guidelines for choosing a topic that has the possibility of
 turning into a good talk.
 
-1. Pick a topic in which you have deep expertise.
+### 1. Pick a topic in which you have deep expertise.
 
 Particularly when you're getting started, your best bet is to start with
 something that you know inside out.
@@ -19,7 +19,7 @@ Writing the outline for that talk was a breeze, because I'd built up so much
 useful knowledge about the topic over the years. And when I eventually gave the
 talk, I was confident I could handle any questions from the audience.
 
-2. Pick something you rant about.
+### 2. Pick something you rant about.
 
 Counter-intuitively, you can give a successful talk about something you hate.
 
@@ -32,7 +32,7 @@ One caveat: if you convince your audience something sucks, the first they'll
 want to know is what they should do instead. Make sure you spend the bulk of
 your talk time on this.
 
-3. Pick something you know nothing about.
+### 3. Pick something you know nothing about.
 
 For the longest time, I wanted to learn Haskell and Erlang, but had never found
 the time.
@@ -44,7 +44,7 @@ This tactic is more risky than the previous two, so it's probably best to only
 consider it if you're an experienced speaker. (And, if I'm being honest, the
 talk I described above didn't turn into one of my best.)
 
-4. Ask your colleagues what they've learned from you.
+### 4. Ask your colleagues what they've learned from you.
 
 Sometimes it's hard to tell that you know something that would be useful to others.
 
@@ -58,11 +58,9 @@ learned from you. You might be surprised. Marvel for a minute, and then mine
 that stuff for a new talk idea!
 
 
-===============================================================================
+# Proposing Successfully
 
-*Proposing Successfully*
-
-1. Keep it short and punchy.
+### 1. Keep it short and punchy.
 
 Most conferences get over a hundred proposals. Put yourself in the shoes of an
 organizer who has read 30 abstracts before yours, and wants to do 10 more
@@ -70,8 +68,7 @@ before he stops for the day. Think of it as speed dating: you've got 5 minutes
 to pique his interest and get him wanting to hear more. Remember that your
 proposal should make the reader want to see your talk.
 
-
-2. Include social proof.
+### 2. Include social proof.
 
 When you give your talks, look for feedback on Twitter (and solicit some if
 there isn't any). Save links to the good stuff and include them in your
@@ -81,20 +78,17 @@ concern that he's going to pick a bad speaker. It makes his life easier, which
 is extremely good for you. Second, since not a lot of speakers will do this, it
 will make you stand out from the crowd.
 
-
-3. Titles matter.
+### 3. Titles matter.
 
 Shoot for intriguing and memorable, in that order. Come up with a couple
 candidates for your title and get input from friends. Which talk would YOU
 rather hear?
 
-
-4. Have a good bio.
+### 4. Have a good bio.
 
 Do cool stuff and talk about it.
 
-
-4. Work hard to stand out.
+### 5. Work hard to stand out.
 
 At the very least, reach out to the organizers with a friendly email after
 submitting. Tell them you're excited about their conference and that you'd love
@@ -146,53 +140,50 @@ $120 in postage.
 Another acceptance. This time to the most quirky, personality-filled, and
 well-executed conference I've ever attended. Worth every penny.
 
-===============================================================================
 
-* An example proposal *
+# An example proposal
 
 Here's a proposal I submitted recently. It was accepted at NordicRuby in 2012,
 which took only 12 talks from a pool of 113.
 
-Title: What Rubyists should Steal from Haskell and Clojure
+<dl><dd><em>Title</em>: What Rubyists should Steal from Haskell and Clojure</dd>
 
-Abstract: Ruby is a great little language, but that doesn't mean it got
+<dd><em>Abstract</em>: Ruby is a great little language, but that doesn't mean it got
 everything right.  This talk will be a tour of the best features from Clojure
 and Haskell that you can't find in Ruby. The goal isn't to try to convert you
 to these languages, but to expand your knowledge of the best ideas in
 programming language design.  We'll also see how understanding the rationale
-behind these features can help you write better Ruby.
+behind these features can help you write better Ruby.</dd>
 
-If concepts like anaphora, destructuring binds, and monads aren't familiar to
+<dd>If concepts like anaphora, destructuring binds, and monads aren't familiar to
 you, prepare to learn some powerful concepts. And don't worry: this won't be
 some voice-from-the-clouds, ivory tower tutorial. Just a pragmatic guy teaching
-cool ideas with simple examples. No neckbeard required.
+cool ideas with simple examples. No neckbeard required.</dd></dl>
 
 Notes to organizers: (Here's where I gush about their conference a litle.)
 
 Then, I include the following quotes, gathered after my most-recent talk:
 
-"@r00k you're one of the best presentors I've ever seen in tech."
-https://twitter.com/#!/sayhar/status/165851089860702208
+<dl><em><dd>"@r00k you're one of the best presentors I've ever seen in tech."
+https://twitter.com/#!/sayhar/status/165851089860702208</dd>
 
-"@r00k and what a presentation it was. i wish you were my public speaking
-professor." https://twitter.com/#!/tony_ciampa/status/165954726695944193
+<dd>"@r00k and what a presentation it was. i wish you were my public speaking
+professor." https://twitter.com/#!/tony_ciampa/status/165954726695944193</dd>
 
-"@r00k is killing - calisthenics, comedy, hecklers, and great super-fast coding
-w/ vim" https://twitter.com/#!/pattytoland/status/165849474747469824
+<dd>"@r00k is killing - calisthenics, comedy, hecklers, and great super-fast coding
+w/ vim" https://twitter.com/#!/pattytoland/status/165849474747469824</dd></em>
+
+<dd><em>Bio</em>: Ben has spoken in several countries and in multiple languages, in venues
+varying from tiny conference rooms to giant lecture halls.</dd>
+
+<dd>He is the co-founder of the Boston Vim Meetup, creator of vimuniversity.com,
+and author of Speaking for Hackers.</dd>
+
+<dd>When not demanding that everyone remap caps lock to escape, Ben writes code at
+thoughtbot, occasionally correctly.</dd></dl>
 
 
-Bio: Ben has spoken in several countries and in multiple languages, in venues
-varying from tiny conference rooms to giant lecture halls.
-
-He is the co-founder of the Boston Vim Meetup, creator of vimuniversity.com,
-and author of Speaking for Hackers.
-
-When not demanding that everyone remap caps lock to escape, Ben writes code at
-thoughtbot, occasionally correctly.
-
-===============================================================================
-
-*Kill Your Introduction*
+# Kill Your Introduction
 
 After attending many conferences and dozens of talks, I've noticed a disturbing
 trend among speakers: most of them start with an introduction.
@@ -246,9 +237,8 @@ Journalists are trained to front-load their articles so that an editor can chop
 any amount off the end and still have a usable piece. Think of your talks this
 way and your audiences will thank you.
 
-===============================================================================
 
-*Practicing Your Talk*
+# Practicing Your Talk
 
 Practice talk in as close to live conditions as possible. Every variable that
 is different between your practicing and actual talk presents risk. 
@@ -276,9 +266,8 @@ this and err on finishing early. This will just mean an extended Q&A and/or an
 early finish for your audience, which usually feels like getting out of class a
 bit ahead-of-schedule.
 
-===============================================================================
 
-*On Slides*
+# On Slides
 
 I've given around dozen talks in the last couple years, and I've noticed a
 definite trend: when I use slides, people like my talks. When I do live coding,
@@ -322,9 +311,8 @@ more risk of failure, but the payoff is tremendous. Start small, with a
 lightning talk, perhaps. Figure out the level of preparation you need to feel
 confident. Then go for it in longer talk slots.
 
-===============================================================================
 
-*Pre-talk checklist*
+# Pre-talk checklist
 
 Whenever I'm creating and practicing a talk, I start a section at the top of my
 notes file containing the steps needed to prepare my machine to give the talk.
@@ -350,9 +338,8 @@ Here are a few things that are in almost all my checklists:
   * remove the clock and battery meter from your status bar
   * get excited!
 
-===============================================================================
 
-* You don't (really) have to cover what you promised *
+# You don't (really) have to cover what you promised
 
 Imagine you propose an awesome talk idea and it gets accepted.
 
@@ -382,9 +369,8 @@ Even so, if you do ask to change topics, don't forget a little salesmanship for
 the new talk you're swapping in. Set them at ease by conveying that this
 substitute talk will be as good or better as the one they originally accepted.
 
-===============================================================================
 
-* Prepare yourself for doubt * 
+# Prepare yourself for doubt
 
 As your talk approaches, it's totally normal to feel greater and greater doubts
 about how it's going to go.
@@ -406,9 +392,8 @@ now I'm mentally prepared and shrug it off.
 When I talk to other speakers, they often admit to having the same thoughts.
 Don't freak out if you do too.
 
-===============================================================================
 
-* Organize Up *
+# Organize Up
 
 There's a saying in the business world that great employees think about
 "managing up", which means helping your manager be good at his or her job. What
