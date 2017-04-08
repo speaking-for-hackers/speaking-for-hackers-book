@@ -28,7 +28,7 @@ talks are about why technology X is great and should be used, one that says the
 opposite about technology Y can be a nice change of pace. Picking a fight can
 get your proposal noticed.
 
-One caveat: if you convince your audience something sucks, the first they'll
+One caveat: if you convince your audience something sucks, the first thing they'll
 want to know is what they should do instead. Make sure you spend the bulk of
 your talk time on this.
 
