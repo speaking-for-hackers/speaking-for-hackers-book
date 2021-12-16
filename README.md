@@ -1,5 +1,7 @@
+# Speaking for Hackers
+
 Years ago, I started to write a book about giving good conference talks. The
-title was Speaking for Hackers. 
+title was Speaking for Hackers.
 
 Turns out I ran out of steam and didn't finish, but I think what's here is
 worth reading.
