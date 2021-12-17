@@ -92,7 +92,7 @@ const ChapterWrapper = ({
   return (
     <>
       <div
-        className="bg-dark-600 text-gray-300 hover:text-white text-base font-bold p-1 grid grid-cols-[32px,1fr,auto] rounded-full items-center hover:cursor-pointer hover:bg-gray-800 my-3 mx-3"
+        className="bg-dark-600 text-gray-300 hover:text-white text-base font-bold p-3 md:p-1 grid grid-cols-[32px,1fr,auto] rounded-full items-center hover:cursor-pointer hover:bg-gray-800 my-3 mx-3"
         onClick={() => setIsOpen(!isOpen)}
       >
         {icon} {title}
