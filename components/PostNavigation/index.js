@@ -7,6 +7,7 @@ import {
   PlusCircleIcon,
   MinusCircleIcon
 } from "@heroicons/react/outline"
+import { getChapterPosts } from "../../util"
 
 const PostNavigation = ({ posts, currentSlug, setShowMobileMenu }) => {
   return (
@@ -19,11 +20,7 @@ const PostNavigation = ({ posts, currentSlug, setShowMobileMenu }) => {
         currentSlug={currentSlug}
         setShowMobileMenu={setShowMobileMenu}
         defaultOpen={currentSlug.includes("before")}
-        posts={posts
-          .filter((post) => post.meta.chapter === "before-your-talk")
-          .sort((post1, post2) =>
-            post1.meta.order > post2.meta.order ? 1 : -1
-          )}
+        posts={getChapterPosts(posts, "before-your-talk")}
       />
       <ChapterWrapper
         icon={<PresentationChartLineIcon className="w-6 h-6 text-green-400" />}
@@ -33,11 +30,7 @@ const PostNavigation = ({ posts, currentSlug, setShowMobileMenu }) => {
         currentSlug={currentSlug}
         setShowMobileMenu={setShowMobileMenu}
         defaultOpen={currentSlug.includes("during")}
-        posts={posts
-          .filter((post) => post.meta.chapter === "during-your-talk")
-          .sort((post1, post2) =>
-            post1.meta.order > post2.meta.order ? 1 : -1
-          )}
+        posts={getChapterPosts(posts, "during-your-talk")}
       />
       <ChapterWrapper
         icon={<LightningBoltIcon className="w-6 h-6 text-pink-400" />}
@@ -47,11 +40,7 @@ const PostNavigation = ({ posts, currentSlug, setShowMobileMenu }) => {
         currentSlug={currentSlug}
         setShowMobileMenu={setShowMobileMenu}
         defaultOpen={currentSlug.includes("after")}
-        posts={posts
-          .filter((post) => post.meta.chapter === "after-your-talk")
-          .sort((post1, post2) =>
-            post1.meta.order > post2.meta.order ? 1 : -1
-          )}
+        posts={getChapterPosts(posts, "after-your-talk")}
       />
     </aside>
   )
@@ -81,7 +70,7 @@ const ChapterWrapper = ({
   }, [defaultOpen])
 
   const handleClick = () => {
-    // Only applicable on mobile
+    // Only applicable on mobile menu
     if (typeof setShowMobileMenu === "function") {
       // slight delay to compensate for fast page transitions
       setTimeout(() => {
