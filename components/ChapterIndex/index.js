@@ -52,7 +52,7 @@ const ChapterIndex = ({ title, theme, posts }) => {
   return (
     <div className="max-w-screen-md mx-auto px-5 pt-12">
       <div
-        className={`${bg} px-5 py-10 grid grid-cols-[36px,1fr] gap-5 rounded-xl relative`}
+        className={`${bg} px-5 py-10 grid grid-cols-[36px,1fr] gap-5 rounded-xl relative overflow-hidden`}
       >
         <Icon className={`w-9 h-9 ${iconColor} z-10`} />
         <h2 className="text-3xl text-gray-900 font-bold tracking-tight z-10">
