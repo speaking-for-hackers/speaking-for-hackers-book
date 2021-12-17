@@ -14,8 +14,13 @@ import Logo from "../../components/Logo"
 import GitHubIcon from "../../components/Icons/GitHub"
 import { XIcon } from "@heroicons/react/outline"
 import PostNavigation from "../../components/PostNavigation"
+import Heading from "../../components/Heading"
 
-const components = { Tweet }
+const components = {
+  Tweet,
+  h2: (props) => <Heading level={2} {...props} />,
+  h3: (props) => <Heading level={3} {...props} />
+}
 
 const PostPage = ({ meta: { title }, mdxSource, posts }) => {
   const router = useRouter()
