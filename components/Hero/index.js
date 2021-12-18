@@ -14,8 +14,7 @@ const Hero = ({ start }) => (
         by Ben Orenstein
       </div>
       <div className="text-gray-400 mt-4 text-xl">
-        Gain the convidence to choose a talking topic, write your pitch and
-        deliver an industry standard talk at your favorite conference.
+        How to keep a roomful of programmers entertained when your competition is <em>the internet</em>.
       </div>
       <Link href={`/post/${start.slug}`}>
         <a
