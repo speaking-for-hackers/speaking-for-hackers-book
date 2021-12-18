@@ -1,5 +1,7 @@
-import { useState, useEffect } from "react"
 import Link from "next/link"
+import { useState, useEffect } from "react"
+
+import { getChapterPosts } from "../../util"
 import {
   LightningBoltIcon,
   LightBulbIcon,
@@ -7,44 +9,41 @@ import {
   PlusCircleIcon,
   MinusCircleIcon
 } from "@heroicons/react/outline"
-import { getChapterPosts } from "../../util"
 
-const PostNavigation = ({ posts, currentSlug, setShowMobileMenu }) => {
-  return (
-    <aside>
-      <ChapterWrapper
-        icon={<LightBulbIcon className="w-6 h-6 text-yellow-400" />}
-        title="Before your talk"
-        hover="hover:text-yellow-400"
-        active="border-l border-yellow-400 text-yellow-400"
-        currentSlug={currentSlug}
-        setShowMobileMenu={setShowMobileMenu}
-        defaultOpen={currentSlug.includes("before")}
-        posts={getChapterPosts(posts, "before-your-talk")}
-      />
-      <ChapterWrapper
-        icon={<PresentationChartLineIcon className="w-6 h-6 text-green-400" />}
-        title="During your talk"
-        hover="hover:text-green-400"
-        active="border-l border-green-400 text-green-400"
-        currentSlug={currentSlug}
-        setShowMobileMenu={setShowMobileMenu}
-        defaultOpen={currentSlug.includes("during")}
-        posts={getChapterPosts(posts, "during-your-talk")}
-      />
-      <ChapterWrapper
-        icon={<LightningBoltIcon className="w-6 h-6 text-pink-400" />}
-        title="After your talk"
-        hover="hover:text-pink-400"
-        active="border-l border-pink-400 text-pink-400"
-        currentSlug={currentSlug}
-        setShowMobileMenu={setShowMobileMenu}
-        defaultOpen={currentSlug.includes("after")}
-        posts={getChapterPosts(posts, "after-your-talk")}
-      />
-    </aside>
-  )
-}
+const PostNavigation = ({ posts, currentSlug, setShowMobileMenu }) => (
+  <aside>
+    <ChapterWrapper
+      icon={<LightBulbIcon className="w-6 h-6 text-yellow-400" />}
+      title="Before your talk"
+      hover="hover:text-yellow-400"
+      active="border-l border-yellow-400 text-yellow-400"
+      currentSlug={currentSlug}
+      setShowMobileMenu={setShowMobileMenu}
+      defaultOpen={currentSlug.includes("before")}
+      posts={getChapterPosts(posts, "before-your-talk")}
+    />
+    <ChapterWrapper
+      icon={<PresentationChartLineIcon className="w-6 h-6 text-green-400" />}
+      title="During your talk"
+      hover="hover:text-green-400"
+      active="border-l border-green-400 text-green-400"
+      currentSlug={currentSlug}
+      setShowMobileMenu={setShowMobileMenu}
+      defaultOpen={currentSlug.includes("during")}
+      posts={getChapterPosts(posts, "during-your-talk")}
+    />
+    <ChapterWrapper
+      icon={<LightningBoltIcon className="w-6 h-6 text-pink-400" />}
+      title="After your talk"
+      hover="hover:text-pink-400"
+      active="border-l border-pink-400 text-pink-400"
+      currentSlug={currentSlug}
+      setShowMobileMenu={setShowMobileMenu}
+      defaultOpen={currentSlug.includes("after")}
+      posts={getChapterPosts(posts, "after-your-talk")}
+    />
+  </aside>
+)
 export default PostNavigation
 
 const ChapterWrapper = ({
