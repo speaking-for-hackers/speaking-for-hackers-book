@@ -2,7 +2,7 @@ import Link from "next/link"
 import { ArrowRightIcon } from "@heroicons/react/outline"
 import { getChapterPosts } from "../../util"
 
-const PostFooter = ({ currentSlug, posts }) => {
+const PostFooter = ({ currentSlug = "", posts }) => {
   let textTheme
   let chapterPosts = []
   let eyebrow = "Next"
@@ -15,11 +15,24 @@ const PostFooter = ({ currentSlug, posts }) => {
   } else if (currentSlug.includes("after")) {
     textTheme = "text-pink-400"
     chapterPosts = getChapterPosts(posts, "after-your-talk")
+  } else if (currentSlug.includes("raw-notes")) {
+    textTheme = "text-pink-400"
+    chapterPosts = getChapterPosts(posts, "raw-notes")
+  } else if (currentSlug.includes("appendix")) {
+    textTheme = "text-pink-400"
+    chapterPosts = getChapterPosts(posts, "appendix")
+  }
+
+  // Return if no chapter posts
+  if (chapterPosts.length === 0) {
+    return
   }
 
   // Find next post if there is one
   let nextPost
-  const currentPos = chapterPosts.findIndex((post) => post.slug === currentSlug)
+  const currentPos = chapterPosts.findIndex(
+    (post) => post?.slug === currentSlug
+  )
 
   if (currentPos + 1 === chapterPosts.length) {
     if (chapterPosts[currentPos].slug.includes("before")) {
