@@ -1,6 +1,6 @@
 import Link from "next/link"
 import {
-  ClipboardCheckIcon,
+  CheckCircleIcon,
   LightBulbIcon,
   PresentationChartLineIcon
 } from "@heroicons/react/outline"
@@ -30,7 +30,7 @@ const ChapterIndex = ({ title, theme, posts }) => {
       numberHoverColor = "group-hover:text-green-500"
       break
     case "pink":
-      Icon = ClipboardCheckIcon
+      Icon = CheckCircleIcon
       bg = "bg-gradient-to-tr from-purple-500 via-pink-500 to-pink-500"
       bgCircles = "bg-ch-pink-circles"
       bgImage = "bg-ch-pink-image"
