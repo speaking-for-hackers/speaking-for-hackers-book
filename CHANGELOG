@@ -1,68 +1,65 @@
+12/9/2021:
+
+- Introduction of NextJS to build out a web UI to browse the content.
+
 7/1/2012:
 
-* Wrote a whole bunch during a long flight back from Scottish Ruby Conf. Lot
-of new sections--check em out!
-
+- Wrote a whole bunch during a long flight back from Scottish Ruby Conf. Lot
+  of new sections--check em out!
 
 3/22/2012:
 
-* Broke the monolithic book.txt into several files (before-your-talk.txt and
-during-your-talk.txt).
-* Fixed up formatting in pre-talk checklist.
-* Fleshed out section on not letting your talks run long.
-* Wrote up 4 tips on handling the Q&A session.
-
+- Broke the monolithic book.txt into several files (before-your-talk.txt and
+  during-your-talk.txt).
+- Fixed up formatting in pre-talk checklist.
+- Fleshed out section on not letting your talks run long.
+- Wrote up 4 tips on handling the Q&A session.
 
 3/13/2012:
 
-* Wrote a full section called Proposing Successfully. It outlines some
-practices and a complete proposal of mine that has been very successful to
-date.
-
+- Wrote a full section called Proposing Successfully. It outlines some
+  practices and a complete proposal of mine that has been very successful to
+  date.
 
 3/4/2012:
 
-* Merged in first pull request! Thanks @cgbystrom.
+- Merged in first pull request! Thanks @cgbystrom.
 
-* Wrote up a section on introductions. See "Kill Your Introduction" for the
-new content.
-
+- Wrote up a section on introductions. See "Kill Your Introduction" for the
+  new content.
 
 2/17/2012:
 
-* Moved all content into a monolithic text file. I'll split this into
-something resembling chapters later.
+- Moved all content into a monolithic text file. I'll split this into
+  something resembling chapters later.
 
-* Added a section on how to lay out a talk (summary: do a one sentence
-introduction followed by your most important point)
-
+- Added a section on how to lay out a talk (summary: do a one sentence
+  introduction followed by your most important point)
 
 2/9/2012:
 
-* Added resources.txt with links to good blog posts and videos on speaking.
-
+- Added resources.txt with links to good blog posts and videos on speaking.
 
 2/8/2012:
 
-* Added sections on how to practice and pre-talk checklists.
-
+- Added sections on how to practice and pre-talk checklists.
 
 2/6/2012:
 
-* Added raw_notes.txt, which are...my raw notes on good public speaking. Most
-of these were written in anger while sitting in crappy talks given by other
-people. Lots of "do"s and "don't"s.
+- Added raw_notes.txt, which are...my raw notes on good public speaking. Most
+  of these were written in anger while sitting in crappy talks given by other
+  people. Lots of "do"s and "don't"s.
 
-* Wrote up the first bit of prose in the book! I decided to start with the
-most important stuff (something you should do in your talks too!).
-prime_directive.txt lays out your MOST IMPORTANT job as speaker. Read this if
-you skip EVERYTHING else.
+- Wrote up the first bit of prose in the book! I decided to start with the
+  most important stuff (something you should do in your talks too!).
+  prime_directive.txt lays out your MOST IMPORTANT job as speaker. Read this if
+  you skip EVERYTHING else.
 
-* This little repo is up to 6 collaborators. If any of you have specific ideas
-you'd like to see covered, I'd love for you to open an issue. Also, typo
-corrections (or any improvements, really) through pull requests will be massively,
-tremendously appreciated. Thanks!
+- This little repo is up to 6 collaborators. If any of you have specific ideas
+  you'd like to see covered, I'd love for you to open an issue. Also, typo
+  corrections (or any improvements, really) through pull requests will be massively,
+  tremendously appreciated. Thanks!
 
-* I shared Don't Be Boring as a blog post at
-http://www.speakingforhackers.com/pages/dont-be-boring I'd love it if you'd
-pass this link along to anyone who might be interested.
+- I shared Don't Be Boring as a blog post at
+  http://www.speakingforhackers.com/pages/dont-be-boring I'd love it if you'd
+  pass this link along to anyone who might be interested.
