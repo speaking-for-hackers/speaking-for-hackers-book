@@ -3,7 +3,7 @@ import { useState, useEffect } from "react"
 
 import { getChapterPosts } from "../../util"
 import {
-  LightningBoltIcon,
+  ClipboardCheckIcon,
   LightBulbIcon,
   PresentationChartLineIcon,
   PlusCircleIcon,
@@ -33,7 +33,7 @@ const PostNavigation = ({ posts, currentSlug, setShowMobileMenu }) => (
       posts={getChapterPosts(posts, "during-your-talk")}
     />
     <ChapterWrapper
-      icon={<LightningBoltIcon className="w-6 h-6 text-pink-400" />}
+      icon={<ClipboardCheckIcon className="w-6 h-6 text-pink-400" />}
       title="After your talk"
       hover="hover:text-pink-400"
       active="border-l border-pink-400 text-pink-400"
