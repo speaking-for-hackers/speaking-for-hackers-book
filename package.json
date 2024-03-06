@@ -11,6 +11,7 @@
     "@heroicons/react": "^1.0.5",
     "@tailwindcss/typography": "^0.5.0",
     "gray-matter": "^4.0.3",
+    "netlify-plugin-next-dynamic": "^1.0.9",
     "next": "12.0.7",
     "next-mdx-remote": "^3.0.8",
     "react": "17.0.2",
